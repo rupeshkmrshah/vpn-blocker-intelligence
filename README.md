@@ -96,4 +96,15 @@ This plugin is licensed under the [MIT License](LICENSE).
 
 **VPN Blocker** helps you protect your website from fraudulent users, spammers, and bots by blocking VPN traffic. Customize messages, use your own API key, and control which pages are accessible to VPN users with ease.
 
-![image](https://github.com/user-attachments/assets/213fca21-7fb7-49c7-b29f-7046f6394db1)
+## VPN Settings Page
+
+![image](https://github.com/user-attachments/assets/2a7a96ad-d118-435e-9c69-65ba5f4a3440)
+
+## IP Whitelist Page
+
+![image](https://github.com/user-attachments/assets/177de0f1-1f03-42ee-907a-912579a4cd52)
+
+## IP Blacklist Page
+
+![image](https://github.com/user-attachments/assets/caa3f380-2dfe-4a4a-a628-720728ba7ebc)
+
